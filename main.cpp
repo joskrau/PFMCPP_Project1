@@ -52,84 +52,86 @@ arm.rotateCounterClockwise();           // 4) demonstrates CamelCase
 
 
 //  1)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun: bus
+//  action 1: the bus stops
+bus.stop();
+//  action 2: the bus goes
+bus.go();
+//  action 3: the bus speeds up
+ bus.speedUp();
 //  2)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun:song
+//  action 1: the song plays
+song.play();
+//  action 2: the volume goes up
+song.raiseVolume();
+//  action 3: the volume goes down
+song.lowerVolume();
 //  3)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun: Color
+//  action 1: set random color
+color.setRandom();
+//  action 2:inverts color
+color.invert();
+//  action 3:sets rgb values to 0,0,0
+ color.reset();
 //  4)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun:Artist
+//  action 1:paints
+artist.paint();
+//  action 2: sculpts
+artist.sculpt();
+//  action 3: draws
+ artist.draw();
 //  5)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun: cruiseShip
+//  action 1:drops the boats anchor
+cruiseShip.dropAnchor();
+//  action 2: turns the rudder clockwise
+cruiseShip.rudderClockWise();
+//  action 3: prepares to enter a port
+cruiseShip.portPrepare();
 //  6)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun:rapper
+//  action 1:raps
+rapper.rap();
+//  action 2:writes song
+rapper.songWrite():
+//  action 3:sings
+ rapper.sing();
 //  7)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun:chef
+//  action 1:gets food
+chef.getFood();
+//  action 2:prepare ingredients
+chef.ingredientPrep();
+//  action 3:cooks
+chef.cook();
 //  8)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun:Journalist
+//  action 1:research
+journalist.research();
+//  action 2:publish story
+journalist.publishStory();
+//  action 3:write story
+journalist.writeStory();
 //  9)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun:street
+//  action 1:get distance of street
+street.getDistance();
+//  action 2:turn on streetlights
+street.illuminate();
+//  action 3:get weight of vehicle on street
+ street.getWeight();
 //  10)
-//  Noun:
-//  action 1:
+//  Noun:list
+//  action 1:count items in list
+list.count();
+//  action 2:add a row to list
+list.addRow();
+//  action 3:delete
+list.delete();
 
-//  action 2:
-
-//  action 3:
  
 
 
