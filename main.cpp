@@ -84,13 +84,13 @@ artist.sculpt();
 //  action 3: draws
  artist.draw();
 //  5)
-//  Noun: boat
+//  Noun: cruiseShip
 //  action 1:drops the boats anchor
-boat.dropAnchor();
+cruiseShip.dropAnchor();
 //  action 2: turns the rudder clockwise
-boat.rudderClockWise();
+cruiseShip.rudderClockWise();
 //  action 3: prepares to enter a port
-boat.portPrepare();
+cruiseShip.portPrepare();
 //  6)
 //  Noun:rapper
 //  action 1:raps
